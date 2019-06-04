@@ -31,16 +31,3 @@ When you will finish inserting all these values, you will get your frequency dis
 3 The frequencies and
 
 4 The cumulative frequencies.
-
-# 2. Frequency Distribution Table Using Pivot Table
-Creating a pivot table using this table is simple:
-
-Inserting Pivot Table
-
-Select any cell within the table. Click on the Insert tab → In the Tables group of commands choose PivotTable command → 
-
-Create PivotTable dialog box appears.
-
-In the Create PivotTable dialog box, the table name (in our case it is Table13) is selected under Choose the data that you want to analyze. So our PivotTable will analyze the data of Table13.
-
-Under Choose where you want the PivotTable report to be placed, I select Existing Worksheet and I set Sheet2!$F$2 as the Location of the PivotTable report. 
